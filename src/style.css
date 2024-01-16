@@ -44,6 +44,12 @@
 }
 
 .footer{
-    margin-left: 80px;
+    position: fixed;
+    bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* margin-left: 80px; */
     font-size: 18px;
 }
